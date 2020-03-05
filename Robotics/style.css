@@ -7,3 +7,16 @@ body {
   height:250px;
   width:150px;
 }
+.email-pic{
+  height:35px;
+  width:35px;
+  padding:20px;
+}
+.ig-pic{
+  height:35px;
+  width:35px;
+  padding:20px;
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
